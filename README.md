@@ -1,9 +1,8 @@
-```markdown
-# 🤖 ChatBot Project
+### 🤖 ChatBot Project
 
 Welcome to the **ChatBot Project**! This chatbot is built using **Microsoft DialoGPT**, a pre-trained language model designed for conversational tasks, integrated with **Flask** as the backend framework. The front-end interface is developed with **HTML**, **CSS**, **JavaScript**, and **jQuery** to create a visually appealing and interactive chat experience.
 
-## 🚀 Installation & Setup
+### 🚀 Installation & Setup
 
 Follow the steps below to install and set up the project:
 
